@@ -1,0 +1,17 @@
+
+.aside-shadow-custom{
+  box-shadow: 1px 10px  1px 5px rgba(255, 255, 255, 0.651);
+}
+table, tr{
+  width: 100%;
+}
+
+ th, td{
+  width: auto;
+  border: 1px solid rgba(0, 0, 0, 0.651);
+}
+
+.scrollbar-none::-webkit-scrollbar{
+   display: none;
+}
+
